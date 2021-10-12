@@ -16,5 +16,7 @@ Blog site written in flask, persistence using SqLite
 
 
 * set env variables on flask-Project dir:
-  $env:FLASK_APP='flaskr'
-  $env:FLASK_DEV=development
+
+      $env:FLASK_APP='flaskr'
+  
+      $env:FLASK_DEV=development
