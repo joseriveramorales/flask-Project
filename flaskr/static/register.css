@@ -1,0 +1,7 @@
+input[type=submit] {
+    align-self: start;
+    min-width: 10em;
+    margin:10em
+  }
+
+  /* Cargar este stylesheet deps, o optimizar el style.css para todo el app */
