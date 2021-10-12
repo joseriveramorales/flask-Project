@@ -22,6 +22,7 @@ Blog site written in flask, persistence using SqLite
   
       $env:FLASK_DEV=development
       
-* Run flask
+* Start DB and run flask
 
+      flask init-db
       flask run
