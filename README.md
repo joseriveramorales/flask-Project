@@ -10,7 +10,7 @@ Blog site written in flask, persistence using SqLite
 
 
 
-## Getting Started: Windows Setup using powershell TO-DO: simplificar dependencias usando docker-compose
+## Getting Started: Windows Setup using powershell (TO-DO: simplificar dependencias usando docker-compose)
 
 * Set the virtual environment (needs python3)
 
