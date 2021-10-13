@@ -5,7 +5,7 @@
 ### Yavier A. Mari Rodríguez - yavier.mari@upr.edu
 
 
-# flask-Project
+# Booking System
 Blog site written in flask, persistence using SqLite 
 
 
