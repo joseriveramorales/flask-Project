@@ -1,9 +1,16 @@
+# Team NoTengoLuz Members:
+
+### José A. Rivera Morales - jose.rivera233@upr.edu
+### José L. Vera Colón - jose.vera7@upr.edu
+### Yavier A. Mari Rodríguez - yavier.mari@upr.edu
+
+
 # flask-Project
 Blog site written in flask, persistence using SqLite 
 
 
 
-## Getting Started: Windows Setup using powershell
+## Getting Started: Windows Setup using powershell TO-DO: simplificar dependencias usando docker-compose
 
 * Set the virtual environment (needs python3)
 
